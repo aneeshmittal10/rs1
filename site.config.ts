@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'Aneesh Mittal',
 
   // open graph metadata (optional)
-  description: 'RickyPedia Space',
+  description: 'Welcome to RickyPedia's Space',
 
   // social usernames (optional)
-  twitter: 'rickypedia.space',
-  github: 'rickypedia10',
+  twitter: 'rickypediaspace',
+  github: 'aneeshmittal10',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
